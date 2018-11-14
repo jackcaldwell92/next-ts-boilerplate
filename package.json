@@ -1,0 +1,29 @@
+{
+  "name": "dst.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/next": "^7.0.4",
+    "@types/react": "^16.7.4",
+    "@types/styled-components": "^4.1.0",
+    "@zeit/next-typescript": "^1.1.1",
+    "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.16.0",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.1.6"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "styled-components": "^4.1.1"
+  }
+}
